@@ -1,2 +1,2 @@
 # brickthrift
-Online Thrift Showcase
+Online Thrift Showcase - Keeping vintage in style one outfit at a time
