@@ -1,2 +1,2 @@
 # brickthrift
-Thrift Showcase
+Online Thrift Showcase
